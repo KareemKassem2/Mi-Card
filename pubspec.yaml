@@ -1,4 +1,4 @@
-name: untitled1
+name: miCard
 description: A new Flutter project.
 
 publish_to: 'none'
@@ -33,4 +33,8 @@ flutter:
     - family: Pacifico
       fonts:
         - asset: fonts/Pacifico-Regular.ttf
+
+    - family: SourceCodePro
+      fonts:
+        - asset: fonts/SourceCodePro-VariableFont_wght.ttf
 
